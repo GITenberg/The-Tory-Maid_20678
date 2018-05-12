@@ -1,0 +1,25 @@
+_repo: The-Tory-Maid_20678
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Stimpson, Herbert Baird
+    birthdate: 1869
+    gutenberg_agent_id: '9454'
+    url: http://www.gutenberg.org/2009/agents/9454
+description: ''
+gutenberg_issued: '2007-02-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '20678'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'United States -- History -- Revolution, 1775-1783 -- Fiction'
+title: The Tory Maid
+url: http://www.gutenberg.org/ebooks/20678
